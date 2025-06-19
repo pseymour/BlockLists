@@ -1,3 +1,4 @@
+||000webhostapp.com^
 ||247activemedia.com^
 ||247realmedia.com^
 ||3dstats.com^
@@ -137,6 +138,7 @@
 ||cinesport.com^
 ||clickaider.com^
 ||clickbooth.com^
+||clickfunnels.com^
 ||clickfuse.com^
 ||clicksor.com^
 ||clicktale.com^
@@ -336,6 +338,7 @@
 ||misstrends.com^
 ||mixpanel.com^
 ||mktoresp.com^
+||mktoweb.com^
 ||mmadplus.com^
 ||mmotraffic.com^
 ||moatads.com^
