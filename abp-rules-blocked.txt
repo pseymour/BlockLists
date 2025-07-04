@@ -1,4 +1,5 @@
 ||infusionsoft.app^
+||vercel.app^
 ||leadpages.co^
 ||000webhostapp.com^
 ||247activemedia.com^
@@ -11,6 +12,7 @@
 ||949media.com^
 ||9livesmediainc.com^
 ||a9.com^
+||abtasty.com^
 ||accelerator-media.com^
 ||acceleratorusa.com^
 ||acquisio.com^
@@ -36,6 +38,7 @@
 ||adhood.com^
 ||adimise.com^
 ||adition.com^
+||adjust.com^
 ||adk2.com^
 ||adk2x.com^
 ||adknowledge.com^
@@ -104,6 +107,7 @@
 ||atinternet.com^
 ||atrinsic.com^
 ||avastats.com^
+||aweber.com^
 ||azjmp.com^
 ||bannersnack.com^
 ||baronsoffers.com^
@@ -129,6 +133,7 @@
 ||brighttag.com^
 ||broadcast-interactive.com^
 ||bubblestat.com^
+||bumlam.com^
 ||burstly.com^
 ||buzzreferrals.com^
 ||c3metrics.com^
@@ -212,6 +217,7 @@
 ||evergage.com^
 ||ewaydirect.com^
 ||exactag.com^
+||exacttarget.com^
 ||expo-max.com^
 ||extreme-dm.com^
 ||extremem.com^
@@ -228,6 +234,7 @@
 ||foreseeresults.com^
 ||freecause.com^
 ||fs-loader.com^
+||g2afse.com^
 ||game-advertising-online.com^
 ||gamersmedia.com^
 ||gannett.com^
@@ -261,6 +268,7 @@
 ||ibsys.com^
 ||iclive.com^
 ||igexin.com^
+||igodigital.com^
 ||imagespacemedia.com^
 ||imgur.com^
 ||impactengine.com^
@@ -300,6 +308,7 @@
 ||kitigital.com^
 ||komli.com^
 ||kontagent.com^
+||leaddyno.com^
 ||leanmarket.com^
 ||lfstmedia.com^
 ||ligatus.com^
@@ -341,6 +350,7 @@
 ||mexad.com^
 ||miaozhen.com^
 ||micklemedia.com^
+||micpn.com^
 ||data.microsoft.com^
 ||edge.microsoft.com^
 ||telemetry.microsoft.com^
@@ -370,6 +380,7 @@
 ||netfilia.com^
 ||darnuid.netflix.com^
 ||logs.netflix.com^
+||netmng.com^
 ||netseer.com^
 ||neverblue.com^
 ||newrelic.com^
@@ -420,6 +431,7 @@
 ||provenpixel.com^
 ||publicidees.com^
 ||publisheradnetwork.com^
+||pubmatic.com^
 ||puserving.com^
 ||pushengage.com^
 ||quadrantone.com^
@@ -441,6 +453,7 @@
 ||retargeter.com^
 ||revcontent.com^
 ||revenuemantra.com^
+||rfihub.com^
 ||rightaction.com^
 ||ringtonepartner.com^
 ||rlcdn.com^
@@ -451,6 +464,7 @@
 ||amoeba-plus.web.roku.com^
 ||rokymedia.com^
 ||rssaded.com^
+||rtrk.com^
 ||sacdnssedge.com^
 ||scanscout.com^
 ||scorecardresearch.com^
@@ -497,6 +511,7 @@
 ||taboola.com^
 ||tagged.com^
 ||tapad.com^
+||tapfiliate.com^
 ||tattomedia.com^
 ||tealium.com^
 ||theadhost.com^
@@ -591,13 +606,17 @@
 ||zergnet.com^
 ||zestadz.com^
 ||decide.dev^
+||akstat.io^
 ||mdhv.io^
+||piano.io^
 ||pxf.io^
+||rdtk.io^
 ||sentry.io^
 ||sjv.io^
 ||mjt.lu^
 ||2mdn.net^
 ||2o7.net^
+||7eer.net^
 ||adaos-ads.net^
 ||adbroker.net^
 ||adform.net^
@@ -621,6 +640,7 @@
 ||axf8.net^
 ||bannerconnect.net^
 ||baynote.net^
+||bidswitch.net^
 ||box.net^
 ||camschat.net^
 ||carbonads.net^
@@ -651,13 +671,16 @@
 ||offerstrack.net^
 ||omtrdc.net^
 ||openx.net^
+||perimeterx.net^
 ||popads.net^
 ||popupad.net^
 ||realvu.net^
 ||reinvigorate.net^
 ||reporo.net^
 ||adnxs.revsci.net^
+||rfihub.net^
 ||sendgrid.net^
+||totalh.net^
 ||trafficjunky.net^
 ||tv2n.net^
 ||uknow.net^
