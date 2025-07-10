@@ -1,6 +1,8 @@
 ||infusionsoft.app^
 ||vercel.app^
+||adk2.co^
 ||leadpages.co^
+||nanorep.co^
 ||000webhostapp.com^
 ||247activemedia.com^
 ||247realmedia.com^
@@ -11,6 +13,7 @@
 ||6theory.com^
 ||949media.com^
 ||9livesmediainc.com^
+||a2z.com^
 ||a9.com^
 ||abtasty.com^
 ||accelerator-media.com^
@@ -35,6 +38,7 @@
 ||adfunky.com^
 ||adfusion.com^
 ||adgile.com^
+||adhese.com^
 ||adhood.com^
 ||adimise.com^
 ||adition.com^
@@ -229,6 +233,7 @@
 ||facebook.com^
 ||fastclickout24.com^
 ||fbmta.com^
+||firstpromoter.com^
 ||flatwatermedia.com^
 ||flurry.com^
 ||foreseeresults.com^
@@ -270,6 +275,7 @@
 ||igexin.com^
 ||igodigital.com^
 ||imagespacemedia.com^
+||imaginegoldcard.com^
 ||imgur.com^
 ||impactengine.com^
 ||impactradius.com^
@@ -278,6 +284,7 @@
 ||indieclick.com^
 ||infogroup.com^
 ||infolinks.com^
+||infopicked.com^
 ||informer.com^
 ||infra-ad.com^
 ||infusionsoft.com^
@@ -301,6 +308,7 @@
 ||juicyads.com^
 ||justpremium.com^
 ||kameleoon.com^
+||kargo.com^
 ||kejet.com^
 ||kentico.com^
 ||keywordblocks.com^
@@ -348,6 +356,7 @@
 ||merchantadvantage.com^
 ||metaffiliation.com^
 ||mexad.com^
+||mgid.com^
 ||miaozhen.com^
 ||micklemedia.com^
 ||micpn.com^
@@ -424,6 +433,7 @@
 ||pixanalytics.com^
 ||pmsrvr.com^
 ||polk.com^
+||postaffiliatepro.com^
 ||poweredbywebads.com^
 ||premiereinteractive.com^
 ||proclivitysystems.com^
@@ -432,12 +442,15 @@
 ||publicidees.com^
 ||publisheradnetwork.com^
 ||pubmatic.com^
+||puhtml.com^
 ||puserving.com^
 ||pushengage.com^
 ||quadrantone.com^
 ||qualtrics.com^
+||quantummetric.com^
 ||quisma.com^
 ||radiusmarketing.com^
+||reachlocal.com^
 ||react2media.com^
 ||realtracker.com^
 ||reduxmediagroup.com^
@@ -470,6 +483,7 @@
 ||scorecardresearch.com^
 ||scrippsnetworks.com^
 ||scupio.com^
+||sedoparking.com^
 ||sendori.com^
 ||sextracker.com^
 ||sgstudios.com^
@@ -591,6 +605,7 @@
 ||worldnow.com^
 ||xaded.com^
 ||xertive.com^
+||xg4ken.com^
 ||xiti.com^
 ||xmladed.com^
 ||yabuka.com^
@@ -605,6 +620,8 @@
 ||zedo.com^
 ||zergnet.com^
 ||zestadz.com^
+||acxiom.com^^
+||getadmiral.com^^
 ||decide.dev^
 ||akstat.io^
 ||mdhv.io^
@@ -641,6 +658,7 @@
 ||bannerconnect.net^
 ||baynote.net^
 ||bidswitch.net^
+||blueconic.net^
 ||box.net^
 ||camschat.net^
 ||carbonads.net^
@@ -656,17 +674,20 @@
 ||effectivemeasure.net^
 ||eulerian.net^
 ||everesttech.net^
+||evyy.net^
 ||federatedmedia.net^
 ||fmpub.net^
 ||fwmrm.net^
 ||intermarkets.net^
 ||linkstorm.net^
 ||liquidus.net^
+||liveperson.net^
 ||marimedia.net^
 ||meetrics.net^
 ||msedge.net^
 ||netinsight.net^
 ||npgapps.net^
+||nr-data.net^
 ||nuggad.net^
 ||offerstrack.net^
 ||omtrdc.net^
@@ -674,6 +695,7 @@
 ||perimeterx.net^
 ||popads.net^
 ||popupad.net^
+||px-cloud.net^
 ||realvu.net^
 ||reinvigorate.net^
 ||reporo.net^
@@ -691,10 +713,10 @@
 ||xa.net^
 ||adsrvr.org^
 ||enduser.adsrvr.org^
-||piwik.org^
-||atiads.tv^
-||attn.tv^
-||freewheel.tv^
-||ispot.tv^
-||ravm.tv^
-||videoplaza.tv^
+||piwik.org^^
+||atiads.tv^^
+||attn.tv^^
+||freewheel.tv^^
+||ispot.tv^^
+||ravm.tv^^
+||videoplaza.tv^^
