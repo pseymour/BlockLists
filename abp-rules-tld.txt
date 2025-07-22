@@ -13,6 +13,7 @@
 ||africa^
 ||ag^
 ||agency^
+||ai^
 ||airbus^
 ||airforce^
 ||allfinanz^
@@ -630,6 +631,7 @@
 ||ws^
 ||wtf^
 ||xin^
+||xxx^
 ||xyz^
 ||yachts^
 ||yandex^

@@ -22,6 +22,7 @@
 ||actonsoftware.com^
 ||acuitymobile.com^
 ||acuityplatform.com^
+||acxiom.com^
 ||ad4game.com^
 ||adaptiveads.com^
 ||adbabylon.com^
@@ -98,6 +99,7 @@
 ||allyes.com^
 ||altitudedigitalpartners.com^
 ||amazingcounters.com^
+||amazon-adsystem.com^
 ||analoganalytics.com^
 ||andomedia.com^
 ||antevenio.com^
@@ -110,6 +112,7 @@
 ||atdmt.com^
 ||atinternet.com^
 ||atrinsic.com^
+||atwola.com^
 ||avastats.com^
 ||aweber.com^
 ||azjmp.com^
@@ -136,6 +139,7 @@
 ||brightcove.com^
 ||brighttag.com^
 ||broadcast-interactive.com^
+||btrll.com^
 ||bubblestat.com^
 ||bumlam.com^
 ||burstly.com^
@@ -169,6 +173,7 @@
 ||contextuads.com^
 ||convertro.com^
 ||cws.conviva.com^
+||coremetrics.com^
 ||coxcrossmedia.com^
 ||cqcounter.com^
 ||crakmedia.com^
@@ -244,6 +249,7 @@
 ||gamersmedia.com^
 ||gannett.com^
 ||geoadnxs.com^
+||getadmiral.com^
 ||getclicky.com^
 ||glammedia.com^
 ||globalismedia.com^
@@ -271,6 +277,7 @@
 ||hubspot.com^
 ||iaded.com^
 ||ibsys.com^
+||ic-live.com^
 ||iclive.com^
 ||igexin.com^
 ||igodigital.com^
@@ -432,6 +439,7 @@
 ||pixalate.com^
 ||pixanalytics.com^
 ||pmsrvr.com^
+||pointroll.com^
 ||polk.com^
 ||postaffiliatepro.com^
 ||poweredbywebads.com^
@@ -494,6 +502,7 @@
 ||sitemeter.com^
 ||siteoracle.com^
 ||sitescout.com^
+||sitestat.com^
 ||skimlinks.com^
 ||skitch.com^
 ||smaato.com^
@@ -502,6 +511,7 @@
 ||snap.com^
 ||sojern.com^
 ||sonobi.com^
+||spacash.com^
 ||sparklit.com^
 ||sparkstudios.com^
 ||speedbit.com^
@@ -533,6 +543,7 @@
 ||tianjimedia.com^
 ||tldadserv.com^
 ||tlvmedia.com^
+||toboads.com^
 ||tonefuse.com^
 ||tpnads.com^
 ||traceworks.com^
@@ -561,6 +572,7 @@
 ||untd.com^
 ||usenext.com^
 ||v12groupinc.com^
+||valuead.com^
 ||valuecommerce.com^
 ||valwa.com^
 ||velti.com^
@@ -620,8 +632,6 @@
 ||zedo.com^
 ||zergnet.com^
 ||zestadz.com^
-||acxiom.com^
-||getadmiral.com^
 ||decide.dev^
 ||akstat.io^
 ||mdhv.io^
@@ -702,6 +712,8 @@
 ||adnxs.revsci.net^
 ||rfihub.net^
 ||sendgrid.net^
+||specificclick.net^
+||spring-tns.net^
 ||totalh.net^
 ||trafficjunky.net^
 ||tv2n.net^
