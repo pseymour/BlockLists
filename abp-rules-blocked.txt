@@ -29,6 +29,7 @@
 ||adc4gis.com^
 ||adcirrus.com^
 ||adcloud.com^
+||adconion.com^
 ||addfreestats.com^
 ||addkick.com^
 ||addtoany.com^
@@ -57,6 +58,7 @@
 ||adnxs.com^
 ||adnxs-simple.com^
 ||adnxs1.com^
+||campaign.adobe.com^
 ||adohana.com^
 ||adonnetwork.com^
 ||adorika.com^
@@ -84,6 +86,7 @@
 ||adtegrity.com^
 ||adtelligent.com^
 ||adtruth.com^
+||facebook-ads.adtz.com^
 ||advertising.com^
 ||advertserve.com^
 ||advertstream.com^
@@ -104,6 +107,7 @@
 ||andomedia.com^
 ||antevenio.com^
 ||apnewsregistry.com^
+||appboy.com^
 ||apponic.com^
 ||apsense.com^
 ||aquamediadirect.com^
@@ -122,9 +126,11 @@
 ||bbelements.com^
 ||be-sociable.com^
 ||belboon.com^
+||belkin.com^
 ||betgenius.com^
 ||bid-tag.com^
 ||bidvertiser.com^
+||bat.bing.com^
 ||bingapis.com^
 ||bizmey.com^
 ||blogads.com^
@@ -139,6 +145,7 @@
 ||brightcove.com^
 ||brighttag.com^
 ||broadcast-interactive.com^
+||bronto.com^
 ||btrll.com^
 ||bubblestat.com^
 ||bumlam.com^
@@ -148,6 +155,7 @@
 ||capablenetworks.com^
 ||casalemedia.com^
 ||cedexis.com^
+||celtra.com^
 ||certona.com^
 ||cfgr3.com^
 ||chartbeat.com^
@@ -165,6 +173,7 @@
 ||cnzz.com^
 ||cobaltgroup.com^
 ||collarity.com^
+||commander1.com^
 ||compete.com^
 ||comyes.com^
 ||condenastdigital.com^
@@ -182,6 +191,7 @@
 ||creative-bars1.com^
 ||criteo.com^
 ||crowdscience.com^
+||curalate.com^
 ||customerconversio.com^
 ||cyberplex.com^
 ||datasphere.com^
@@ -242,6 +252,7 @@
 ||flatwatermedia.com^
 ||flurry.com^
 ||foreseeresults.com^
+||forter.com^
 ||freecause.com^
 ||fs-loader.com^
 ||g2afse.com^
@@ -263,6 +274,7 @@
 ||grapheffect.com^
 ||grazr.com^
 ||greystripe.com^
+||groupm.com^
 ||gumgum.com^
 ||gunggo.com^
 ||harrenmedia.com^
@@ -335,6 +347,7 @@
 ||liveadvert.com^
 ||livefyre.com^
 ||lmodules.com^
+||localiq.com^
 ||lockedonmedia.com^
 ||lomadee.com^
 ||longtailvideo.com^
@@ -394,6 +407,7 @@
 ||netadclick.com^
 ||netaudioads.com^
 ||netfilia.com^
+||netflix.com^
 ||darnuid.netflix.com^
 ||logs.netflix.com^
 ||netmng.com^
@@ -526,6 +540,7 @@
 ||strikead.com^
 ||stumbleupon.com^
 ||suite6ixty6ix.com^
+||push.sumo.com^
 ||sundaysky.com^
 ||supersonicads.com^
 ||swrve.com^
@@ -540,6 +555,7 @@
 ||tealium.com^
 ||theadhost.com^
 ||thesearchagency.com^
+||thirdpresence.com^
 ||tianjimedia.com^
 ||tldadserv.com^
 ||tlvmedia.com^
@@ -583,6 +599,7 @@
 ||viasheepdatabase.com^
 ||viddler.com^
 ||viewablemedia.com^
+||viewdeos.com^
 ||vimeo.com^
 ||visiblegains.com^
 ||visibli.com^
@@ -623,6 +640,7 @@
 ||yabuka.com^
 ||adserver.yahoo.com^
 ||ybrantdigital.com^
+||yext.com^
 ||yieldads.com^
 ||yieldbuild.com^
 ||yontoo.com^
@@ -635,6 +653,7 @@
 ||decide.dev^
 ||akstat.io^
 ||mdhv.io^
+||pendo.io^
 ||piano.io^
 ||pxf.io^
 ||rdtk.io^
@@ -676,6 +695,7 @@
 ||clickbank.net^
 ||contentspread.net^
 ||crwdcntrl.net^
+||deltadna.net^
 ||demdex.net^
 ||c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net^
 ||doubleclick.net^
@@ -693,6 +713,7 @@
 ||liquidus.net^
 ||liveperson.net^
 ||marimedia.net^
+||media.net^
 ||meetrics.net^
 ||msedge.net^
 ||netinsight.net^
@@ -712,6 +733,7 @@
 ||adnxs.revsci.net^
 ||rfihub.net^
 ||sendgrid.net^
+||smartclip.net^
 ||specificclick.net^
 ||spring-tns.net^
 ||totalh.net^
