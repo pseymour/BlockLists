@@ -246,8 +246,14 @@
 ||eyeviewdigital.com^
 ||ezcybersearch.com^
 ||facebook.com^
+||facebookbrand.com^
+||facebookmail.com^
+||facebookvirtualassistant.com^
 ||fastclickout24.com^
+||fb.com^
+||fbcdn.com^
 ||fbmta.com^
+||fbsbx.com^
 ||firstpromoter.com^
 ||flatwatermedia.com^
 ||flurry.com^
@@ -374,6 +380,7 @@
 ||mediatrust.com^
 ||mediawhiz.com^
 ||merchantadvantage.com^
+||messenger.com^
 ||metaffiliation.com^
 ||mexad.com^
 ||mgid.com^
@@ -423,6 +430,8 @@
 ||ning.com^
 ||ninthdecimal.com^
 ||nxtck.com^
+||oculus.com^
+||oculusvr.com^
 ||offerforge.com^
 ||measure.office.com^
 ||ohana-media.com^
