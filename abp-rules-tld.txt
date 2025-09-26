@@ -10,6 +10,7 @@
 ||actor^
 ||ad^
 ||adult^
+||ae^
 ||af^
 ||afl^
 ||africa^
@@ -18,6 +19,7 @@
 ||ai^
 ||airbus^
 ||airforce^
+||al^
 ||allfinanz^
 ||alsace^
 ||am^
@@ -41,6 +43,8 @@
 ||auto^
 ||autos^
 ||ax^
+||az^
+||ba^
 ||baby^
 ||band^
 ||bank^
@@ -49,6 +53,7 @@
 ||bargains^
 ||basketball^
 ||bayern^
+||bd^
 ||be^
 ||beauty^
 ||beer^
@@ -209,6 +214,7 @@
 ||eco^
 ||education^
 ||ee^
+||eg^
 ||email^
 ||energy^
 ||engineer^
@@ -300,6 +306,7 @@
 ||gripe^
 ||group^
 ||gs^
+||gt^
 ||gy^
 ||hamburg^
 ||haus^
@@ -342,6 +349,7 @@
 ||insure^
 ||international^
 ||investments^
+||iq^
 ||ir^
 ||irish^
 ||is^
@@ -354,6 +362,7 @@
 ||jetzt^
 ||jewelry^
 ||jio^
+||jm^
 ||jo^
 ||jobs^
 ||joburg^
@@ -395,6 +404,7 @@
 ||link^
 ||live^
 ||living^
+||lk^
 ||llc^
 ||loan^
 ||loans^
@@ -406,6 +416,7 @@
 ||lt^
 ||ltd^
 ||ltda^
+||lu^
 ||luxe^
 ||luxury^
 ||lv^
@@ -420,6 +431,7 @@
 ||markets^
 ||marriott^
 ||mba^
+||md^
 ||me^
 ||media^
 ||melbourne^
@@ -467,6 +479,7 @@
 ||ng^
 ||ngo^
 ||nhk^
+||ni^
 ||nike^
 ||ninja^
 ||nl^
@@ -487,11 +500,13 @@
 ||organic^
 ||osaka^
 ||ovh^
+||pa^
 ||page^
 ||paris^
 ||partners^
 ||parts^
 ||party^
+||pe^
 ||pet^
 ||pfizer^
 ||ph^
@@ -528,6 +543,8 @@
 ||pt^
 ||pub^
 ||pw^
+||py^
+||qa^
 ||qpon^
 ||quest^
 ||racing^
@@ -692,6 +709,7 @@
 ||uz^
 ||vacations^
 ||vc^
+||ve^
 ||vegas^
 ||ventures^
 ||versicherung^
@@ -745,3 +763,4 @@
 ||zip^
 ||zm^
 ||zone^
+||zw^
