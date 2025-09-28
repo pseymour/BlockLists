@@ -217,6 +217,7 @@
 ||dotomi.com^
 ||doubleverify.com^
 ||dsnrmg.com^
+||dsntah.com^
 ||improving.duckduckgo.com^
 ||dvlabs.com^
 ||e-viral.com^
@@ -318,6 +319,7 @@
 ||innity.com^
 ||innovid.com^
 ||insideview.com^
+||insightexpressai.com^
 ||inskinmedia.com^
 ||instagram.com^
 ||intellitxt.com^
@@ -483,7 +485,9 @@
 ||radiusmarketing.com^
 ||reachlocal.com^
 ||react2media.com^
+||realsrv.com^
 ||realtracker.com^
+||conduit.redfast.com^
 ||reduxmediagroup.com^
 ||refersion.com^
 ||reklamport.com^
@@ -552,6 +556,7 @@
 ||push.sumo.com^
 ||sundaysky.com^
 ||supersonicads.com^
+||survata.com^
 ||swrve.com^
 ||synergy-e.com^
 ||synovate.com^
@@ -578,6 +583,7 @@
 ||trafic-broker.com^
 ||transpera.com^
 ||ads.tremorhub.com^
+||trendmicro.com^
 ||truex.com^
 ||truoptik.com^
 ||tubemogul.com^
@@ -600,6 +606,7 @@
 ||valuead.com^
 ||valuecommerce.com^
 ||valwa.com^
+||telemetry.vaultdcr.com^
 ||velti.com^
 ||veoxa.com^
 ||veruta.com^
@@ -661,6 +668,7 @@
 ||zestadz.com^
 ||decide.dev^
 ||akstat.io^
+||beacons.extremereach.io^
 ||mdhv.io^
 ||pendo.io^
 ||piano.io^
@@ -721,6 +729,7 @@
 ||linkstorm.net^
 ||liquidus.net^
 ||liveperson.net^
+||lswf.net^
 ||marimedia.net^
 ||media.net^
 ||meetrics.net^
