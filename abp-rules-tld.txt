@@ -42,7 +42,9 @@
 ||audio^
 ||auto^
 ||autos^
+||aw^
 ||ax^
+||axa^
 ||az^
 ||ba^
 ||baby^
@@ -53,6 +55,7 @@
 ||bargains^
 ||basketball^
 ||bayern^
+||bb^
 ||bd^
 ||be^
 ||beauty^
@@ -75,6 +78,8 @@
 ||blackfriday^
 ||blog^
 ||blue^
+||bm^
+||bn^
 ||bnpparibas^
 ||bo^
 ||boats^
@@ -89,6 +94,8 @@
 ||broadway^
 ||broker^
 ||brussels^
+||bs^
+||bt^
 ||build^
 ||builders^
 ||business^
@@ -123,7 +130,9 @@
 ||center^
 ||ceo^
 ||cern^
+||cf^
 ||cfd^
+||cg^
 ||ch^
 ||channel^
 ||charity^
@@ -173,7 +182,10 @@
 ||cricket^
 ||crs^
 ||cruises^
+||cu^
+||cv^
 ||cx^
+||cy^
 ||cymru^
 ||cyou^
 ||cz^
@@ -200,6 +212,7 @@
 ||directory^
 ||discount^
 ||diy^
+||dj^
 ||dk^
 ||do^
 ||doctor^
@@ -280,6 +293,7 @@
 ||gd^
 ||gdn^
 ||ge^
+||gea^
 ||gent^
 ||gg^
 ||gh^
@@ -299,6 +313,7 @@
 ||goog^
 ||gop^
 ||gp^
+||gq^
 ||gr^
 ||graphics^
 ||gratis^
@@ -307,6 +322,7 @@
 ||group^
 ||gs^
 ||gt^
+||gw^
 ||gy^
 ||hamburg^
 ||haus^
@@ -317,6 +333,7 @@
 ||hiphop^
 ||hiv^
 ||hk^
+||hm^
 ||hn^
 ||hockey^
 ||holdings^
@@ -336,6 +353,7 @@
 ||id^
 ||ie^
 ||il^
+||im^
 ||immo^
 ||immobilien^
 ||in^
@@ -371,6 +389,7 @@
 ||kaufen^
 ||ke^
 ||kg^
+||kh^
 ||kids^
 ||kim^
 ||kitchen^
@@ -378,6 +397,7 @@
 ||kn^
 ||koeln^
 ||komatsu^
+||kp^
 ||kr^
 ||krd^
 ||kw^
@@ -431,6 +451,7 @@
 ||markets^
 ||marriott^
 ||mba^
+||mc^
 ||md^
 ||me^
 ||media^
@@ -444,7 +465,9 @@
 ||mini^
 ||mk^
 ||ml^
+||mm^
 ||mn^
+||mo^
 ||mobi^
 ||moda^
 ||moe^
@@ -464,10 +487,12 @@
 ||mu^
 ||museum^
 ||music^
+||mv^
 ||mw^
 ||mx^
 ||my^
 ||mz^
+||na^
 ||nagoya^
 ||name^
 ||navy^
@@ -476,6 +501,7 @@
 ||new^
 ||news^
 ||nexus^
+||nf^
 ||ng^
 ||ngo^
 ||nhk^
@@ -509,6 +535,7 @@
 ||pe^
 ||pet^
 ||pfizer^
+||pg^
 ||ph^
 ||pharmacy^
 ||phd^
@@ -587,6 +614,7 @@
 ||saarland^
 ||sale^
 ||salon^
+||sandvik^
 ||sap^
 ||sarl^
 ||sb^
@@ -620,6 +648,7 @@
 ||ski^
 ||skin^
 ||sl^
+||sm^
 ||sn^
 ||so^
 ||soccer^
@@ -632,6 +661,7 @@
 ||space^
 ||sport^
 ||spot^
+||sr^
 ||srl^
 ||ss^
 ||st^
@@ -655,6 +685,7 @@
 ||sy^
 ||sydney^
 ||systems^
+||sz^
 ||taipei^
 ||talk^
 ||target^
@@ -680,6 +711,7 @@
 ||tires^
 ||tirol^
 ||tj^
+||tk^
 ||tl^
 ||tn^
 ||to^
@@ -754,11 +786,13 @@
 ||xyz^
 ||yachts^
 ||yandex^
+||ye^
 ||yodobashi^
 ||yoga^
 ||yokohama^
 ||you^
 ||yt^
+||yun^
 ||za^
 ||zip^
 ||zm^
